@@ -31,7 +31,7 @@ Key Metrics: Total number of calls received, Number of calls resolved, Average s
 
 Visual Insights: Calls by month, Calls by topic, Calls received by time of day, Agent performance statistics
 
-[Link to report]()
+[Link to report](https://app.powerbi.com/view?r=eyJrIjoiMjU2NTJhOGMtYjRjYi00OGQ0LTk5OWUtOWIzYjcxNzRjZjcxIiwidCI6IjA3MTUzMWNjLWU4ZjItNDk5Yi05ZDVlLWMyMWZhMjZmYzA4NyJ9)
 
 Outcome: The report offers insights to support decision-making, improve response time, and enhance customer service quality.
 
